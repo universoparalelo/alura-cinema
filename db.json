@@ -7,7 +7,7 @@
             "year": 2010,
             "genre": "Sci-Fi",
             "image": "/movies/inception.jpg",
-            "url": "https://youtu.be/YoHD9XEInc0?si=w0IO3EX-YjpP_Ow8"
+            "url": "https://www.youtube.com/embed/YoHD9XEInc0?si=bxcsgtTmKTtETna-"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "year": 1999,
             "genre": "Action",
             "image": "/movies/matrix.jpg",
-            "url": "https://youtu.be/qjnvX44LoQw?si=R3wMfcITqDEXWBrj"
+            "url": "https://www.youtube.com/embed/qjnvX44LoQw?si=bcfyCoeNuVnfRF16"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "year": 2014,
             "genre": "Sci-Fi",
             "image": "/movies/interestellar.webp",
-            "url": "https://youtu.be/LYS2O1nl9iM?si=r4FKlLqCvwejCe7Y"
+            "url": "https://www.youtube.com/embed/LYS2O1nl9iM?si=ou6wX40_-PDs_tJj"
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "year": 1972,
             "genre": "Crime",
             "image": "/movies/thegodfather.jpg",
-            "url": "https://youtu.be/UaVTIH8mujA?si=u6FRDVDGWnDR8-HT"
+            "url": "https://www.youtube.com/embed/UaVTIH8mujA?si=8SG4uegI74OHsSN-"
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "year": 1994,
             "genre": "Crime",
             "image": "/movies/pulpfiction.jpg",
-            "url": "https://youtu.be/s7EdQ4FqbhY?si=gtS8E01FE5YmAcqA"
+            "url": "https://www.youtube.com/embed/s7EdQ4FqbhY?si=gtS8E01FE5YmAcqA"
         }
     ],
     "categories": [
